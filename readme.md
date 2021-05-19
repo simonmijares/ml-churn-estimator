@@ -1,6 +1,53 @@
 # Churn ML Estimator
+#### by Simón Mijares Pachano
+
+## Project Definition
+### Project Overview
 
 This is a simple estimator based on pytorch ml trained with the data set from kaggle and developed in Sagemaker
+
+### Problem Statement
+
+### Metrics
+
+## Analysis
+
+### Criteria
+
+### Data Exploration
+
+### Data Visualization
+
+## Metodology
+
+### Data Preprocessing
+
+### Implementation
+
+### Refinement
+
+## Results
+
+### Criteria
+
+### Model Evaluation and Validation
+
+### Justification
+
+## Conclusion
+
+### Reflection
+
+### Improvement
+
+## Deliverables
+
+### Write-up or Application
+
+### Github Repository
+
+### Best Repository
+
 
 ## Installation
 
